@@ -1,0 +1,29 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'clkin'
+Slack : -7.338
+TNS   : -161.538
+
+Type  : Setup 'clkint'
+Slack : -1.737
+TNS   : -5.193
+
+Type  : Hold 'clkin'
+Slack : -1.916
+TNS   : -1.916
+
+Type  : Hold 'clkint'
+Slack : 1.699
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'clkin'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'clkint'
+Slack : 0.234
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sun Dec  8 14:26:55 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : FFNombre
+Top-level Entity Name : FFNombre
+Family : MAX II
+Device : EPM240T100C5
+Timing Models : Final
+Total logic elements : 64 / 240 ( 27 % )
+Total pins : 22 / 80 ( 28 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
